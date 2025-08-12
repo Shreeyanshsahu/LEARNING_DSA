@@ -7,7 +7,7 @@ int main() {
     int n = arr.size();
 
     for (int i = 0; i < n - 1; i++) {
-        for (int x = 0; x < n - 1; x++) {
+        for (int x = 0; x < n - 1 - i; x++) {
             if (arr[x] > arr[x + 1]) {
                 swap(arr[x], arr[x + 1]); // one-line swap
             }
