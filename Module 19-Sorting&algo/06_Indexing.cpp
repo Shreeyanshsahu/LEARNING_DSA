@@ -18,7 +18,7 @@ int main(){
             if(arr[j]<min){
                 min = arr[j];
                 temp = j;
-            }
+            } 
         }
         ans[temp]=i;
     }
