@@ -2,15 +2,36 @@ temp
 Module-14
 .vscode
 1_pattern.exe
-# Compiled object files
+# ---------------------------
+# C++ Ignore Rules
+# ---------------------------
+
+# Object files
 *.o
 *.obj
 
-# Compiled binaries
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
 a.out
 *.out
 *.exe
 
-# Build directories
-/bin/
-/build/
+# Catch executables without extensions
+# (any file in /bin or /build is assumed to be a binary)
+bin/
+build/
+
+# Mac specific junk
+.DS_Store
