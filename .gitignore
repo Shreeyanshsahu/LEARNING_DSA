@@ -2,3 +2,15 @@ temp
 Module-14
 .vscode
 1_pattern.exe
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binaries
+a.out
+*.out
+*.exe
+
+# Build directories
+/bin/
+/build/
