@@ -2,6 +2,7 @@
 #include <vector>
 using namespace std;
 
+
 vector<int> mergeArray(vector<int> arr1, vector<int> arr2) {
     int i = 0, j = 0;
     vector<int> arr;
@@ -44,7 +45,7 @@ vector<int> mergeSort(vector<int> arr) {
 }
 
 int main() {
-    vector<int> arr = {2, 1, 23, 9, 5, 8, 7};
+    vector<int> arr = {2, 1, 23, 9, 5, 8, 7,0};
     arr = mergeSort(arr);
 
     for (int x : arr) cout << x << " ";

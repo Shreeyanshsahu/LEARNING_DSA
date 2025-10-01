@@ -48,7 +48,7 @@ vector<int> Nextgreatest(vector<int> &arr){
 
     vector<int>ans(arr.size(),-1);
 
-    s.push(arr[arr.size()-1]);
+    s.push(arr[arr.size()-1]); 
     int i = arr.size()-2;
     while(i>=0){
         // Step pop all small element.
