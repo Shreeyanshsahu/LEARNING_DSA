@@ -1,8 +1,3 @@
-*
-!*/
-!*.*
-temp
-Module-17
 Module-14
 .vscode
 # ---------------------------
@@ -22,7 +17,7 @@ Module-14
 *.dylib
 *.dll
 # Ignore compiled binary files
-*.executables
+*.exe
 *.out
 *.o
 *.obj
