@@ -18,7 +18,21 @@ Module-14
 *.so
 *.dylib
 *.dll
+# Ignore compiled binary files
+*.executables
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.bin
 
+# Ignore build directories
+/build/
+/dist/
+/Debug/
+/Release/
 # Compiled Static libraries
 *.a
 *.lib
