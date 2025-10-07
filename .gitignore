@@ -49,3 +49,14 @@ build/
 
 # Mac specific junk
 .DS_Store
+
+*
+!*/
+!*.*
+
+# Ignore all files with no extension (typical for compiled binaries)
+.*
+!*/        # keep directories
+!*.*/      # keep hidden directories
+!.*        # keep hidden files like .gitignore
+!*/**.*    # keep files that have extensions
