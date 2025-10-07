@@ -1,7 +1,10 @@
+*
+!*/
+!*.*
 temp
+Module-17
 Module-14
 .vscode
-1_pattern.exe
 # ---------------------------
 # C++ Ignore Rules
 # ---------------------------
@@ -49,10 +52,6 @@ build/
 
 # Mac specific junk
 .DS_Store
-
-*
-!*/
-!*.*
 
 # Ignore all files with no extension (typical for compiled binaries)
 .*
