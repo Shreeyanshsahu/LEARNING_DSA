@@ -96,3 +96,19 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | 2025-10-15 | C++      | Recursion + OOP      | 🔜 Upcoming |
 | 2025-10-25 | C++      | Trees & Graphs       | 🔜 Upcoming |
 | 2025-11-01 | C++      | Dynamic Programming  | 🔜 Upcoming |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+<!---LeetCode Topics End-->
