@@ -111,4 +111,20 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
