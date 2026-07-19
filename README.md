@@ -123,16 +123,31 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
