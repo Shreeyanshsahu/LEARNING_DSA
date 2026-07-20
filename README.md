@@ -102,6 +102,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
@@ -122,6 +123,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -143,6 +145,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -153,6 +156,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -181,4 +185,8 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0222-count-complete-tree-nodes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
