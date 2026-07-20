@@ -102,6 +102,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -162,4 +163,12 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
