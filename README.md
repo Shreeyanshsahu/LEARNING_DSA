@@ -132,6 +132,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -147,6 +148,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -163,6 +165,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -225,6 +228,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
