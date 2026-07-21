@@ -36,12 +36,9 @@ public:
         return value;
     }
     // Decodes your encoded data to tree.
-    TreeNode* deserialize(string data) {
+    TreeNode* deserialize(const string &data) {
         if (data == "#")
             return nullptr;
-
-        int i = 0;
-
         string token = nextToken(data);
         TreeNode* root = new TreeNode(stoi(token));
 
