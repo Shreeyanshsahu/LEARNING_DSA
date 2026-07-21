@@ -118,6 +118,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
@@ -126,6 +127,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -138,6 +140,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -151,6 +154,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -206,4 +210,8 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
