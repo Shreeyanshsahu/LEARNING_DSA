@@ -107,6 +107,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0130-surrounded-regions](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -116,6 +117,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -234,6 +236,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
