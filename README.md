@@ -113,6 +113,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -238,6 +239,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -329,4 +331,8 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0207-course-schedule](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0802-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
