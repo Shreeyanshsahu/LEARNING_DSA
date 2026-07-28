@@ -9,11 +9,7 @@ public:
         string middle="";
         string right="";
         for(int i = 0;i<hash.size();i++){
-            if(hash[i]>1){
-                for(int j=0;j<hash[i]/2;j++){
-                    left+=(char)(i+97);
-                }
-            }
+            left.append(hash[i] / 2, char(i + 'a'));
             if(hash[i]%2!=0 && middle==""){
                 middle=(char)(i+97);
             }
