@@ -114,6 +114,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [1020-number-of-enclaves](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -251,6 +252,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0994-rotting-oranges](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1260-shift-2d-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
 | ------- |
