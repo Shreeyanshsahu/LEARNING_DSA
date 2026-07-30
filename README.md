@@ -217,6 +217,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -242,6 +243,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Matrix
 |  |
@@ -276,6 +278,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
@@ -344,9 +347,11 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
