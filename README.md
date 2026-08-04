@@ -116,6 +116,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -218,6 +219,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3731-find-missing-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -245,6 +247,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
