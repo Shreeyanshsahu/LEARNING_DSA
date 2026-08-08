@@ -215,6 +215,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -223,6 +224,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0207-course-schedule) |
@@ -279,6 +281,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -357,4 +360,8 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
