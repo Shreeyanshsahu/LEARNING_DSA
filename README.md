@@ -115,6 +115,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3731-find-missing-elements) |
@@ -187,6 +188,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -245,6 +247,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0994-rotting-oranges](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1631-path-with-minimum-effort) |
 ## Sorting
 |  |
 | ------- |
@@ -265,6 +268,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [1020-number-of-enclaves](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1260-shift-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
@@ -274,6 +278,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0222-count-complete-tree-nodes) |
+| [1631-path-with-minimum-effort](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -338,6 +343,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0547-number-of-provinces](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -356,6 +362,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1631-path-with-minimum-effort) |
 ## Counting Sort
 |  |
 | ------- |
@@ -375,4 +382,8 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0126-word-ladder-ii) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
