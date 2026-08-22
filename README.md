@@ -108,6 +108,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0200-number-of-islands](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -181,6 +182,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0547-number-of-provinces](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0785-is-graph-bipartite) |
@@ -224,6 +226,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0126-word-ladder-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -242,6 +245,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0547-number-of-provinces](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0785-is-graph-bipartite) |
@@ -258,6 +262,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -300,6 +305,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0126-word-ladder-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0721-accounts-merge](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0721-accounts-merge) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -350,6 +356,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0130-surrounded-regions](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
