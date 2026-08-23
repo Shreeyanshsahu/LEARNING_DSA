@@ -110,6 +110,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -186,6 +187,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0721-accounts-merge](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0802-find-eventual-safe-states) |
@@ -252,6 +254,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0721-accounts-merge](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0802-find-eventual-safe-states) |
@@ -280,6 +283,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0200-number-of-islands](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1020-number-of-enclaves) |
@@ -295,6 +299,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0778-swim-in-rising-water](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
@@ -363,6 +368,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0200-number-of-islands](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -394,6 +400,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1631-path-with-minimum-effort) |
@@ -420,6 +427,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -442,4 +450,8 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
