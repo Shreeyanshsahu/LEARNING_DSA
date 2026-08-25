@@ -125,6 +125,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -356,6 +357,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -454,4 +456,8 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0778-swim-in-rising-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
