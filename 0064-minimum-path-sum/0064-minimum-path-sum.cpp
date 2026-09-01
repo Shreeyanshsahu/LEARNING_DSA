@@ -22,28 +22,46 @@ class Solution {
 
 public:
     int minPathSum(vector<vector<int>>& grid) {
+        // int m = grid.size();
+        // int n = grid[0].size();
+        // vector<vector<int>> dp(m, vector<int>(n, 0));
+        // dp[0][0] = grid[0][0];
+        // for (int row = 0; row < m; row++) {
+        //     for (int col = 0; col < n; col++) {
+
+        //         if (row == 0 && col == 0)
+        //             continue;
+        //         int top = INT_MAX;
+        //         int left = INT_MAX;
+
+        //         if (row > 0)
+        //             top = dp[row - 1][col];
+
+        //         if (col > 0)
+        //             left = dp[row][col - 1];
+
+        //         dp[row][col] = min(top, left) + grid[row][col];
+        //     }
+        // }
+        // return dp[m - 1][n - 1];
         int m = grid.size();
         int n = grid[0].size();
-        vector<vector<int>> dp(m, vector<int>(n, 0));
-        dp[0][0] = grid[0][0];
+
+        vector<int> dp(n, INT_MAX);
+
+        dp[0] = 0;
+
         for (int row = 0; row < m; row++) {
             for (int col = 0; col < n; col++) {
 
-                if (row == 0 && col == 0)
-                    continue;
-                int top = INT_MAX;
-                int left = INT_MAX;
-
-                if (row > 0)
-                    top = dp[row - 1][col];
-
                 if (col > 0)
-                    left = dp[row][col - 1];
-
-                dp[row][col] = min(top, left) + grid[row][col];
+                    dp[col] = min(dp[col], dp[col - 1]) + grid[row][col];
+                else
+                    dp[col] += grid[row][col];
             }
         }
-        return dp[m - 1][n - 1];
+
+        return dp[n - 1];
         // return helper(m-1,n-1,m,n,dp,grid);
     }
 };
