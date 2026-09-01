@@ -128,6 +128,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -361,6 +362,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0213-house-robber-ii) |
@@ -467,4 +469,8 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
