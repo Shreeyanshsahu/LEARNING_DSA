@@ -28,26 +28,47 @@ public:
             return 0;
         int m = grid.size();
         int n = grid[0].size();
-        vector<vector<int>> dp(m, vector<int>(n, 0));
+        vector<int> dp(n,0);
+        // vector<vector<int>> dp(m, vector<int>(n, 0));
         // return helper(m-1,n-1,m,n,dp,grid);
-        dp[0][0] = 1;
+        // dp[0][0] = 1;
+        // for (int row = 0; row < m; row++) {
+        //     for (int col = 0; col < n; col++) {
+        //         if (row == 0 && col == 0)
+        //             continue;
+        //         int top = 0;
+        //         int left = 0;
+        //         if (grid[row][col] == 1)
+        //             continue;
+        //         if (row > 0)
+        //             top = dp[row - 1][col];
+
+        //         if (col > 0)
+        //             left = dp[row][col - 1];
+
+        //         dp[row][col] = top + left;
+        //     }
+        // }
+        // return dp[m - 1][n - 1];
+        dp[0] = 1;
         for (int row = 0; row < m; row++) {
             for (int col = 0; col < n; col++) {
                 if (row == 0 && col == 0)
                     continue;
                 int top = 0;
                 int left = 0;
-                if (grid[row][col] == 1)
-                    continue;
+                if (grid[row][col] == 1){
+                    dp[col]=0;
+                    continue;}
                 if (row > 0)
-                    top = dp[row - 1][col];
+                    top = dp[col];
 
                 if (col > 0)
-                    left = dp[row][col - 1];
+                    left = dp[col - 1];
 
-                dp[row][col] = top + left;
+                dp[col] = top + left;
             }
         }
-        return dp[m - 1][n - 1];
+        return dp[n - 1];
     }
 };
