@@ -149,6 +149,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -331,6 +332,7 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 | [0127-word-ladder](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0721-accounts-merge](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0721-accounts-merge) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -484,4 +486,8 @@ OOP: Classes, Objects, Inheritance, Polymorphism
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/0062-unique-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreeyanshsahu/LEARNING_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
